@@ -1,0 +1,90 @@
+```{r, echo = F}
+topic_manually_set <- 1
+variables <- tibble(topic_1 = sample(c("kognitive Fähigkeiten", 
+                                       "Gewissenhaftigkeit", 
+                                       "schulische Leistungsentwicklung"), 3),
+                    topic_2 = sample(c("Alter", 
+                                       "Freizeitumfang", 
+                                       "Nutzung sozialer Medien"), 3))
+av_uv_mov_seq <- sample(1:3,3)
+```
+
+
+Question
+========
+Eine Forscherin interessiert sich für die Variablen `r variables %>% pull(topic_manually_set) %>% .[1]`, `r variables %>% pull(topic_manually_set) %>% .[2]` und `r variables %>% pull(topic_manually_set) %>% .[3]`. Sie erhebt die entsprechenden Daten bei einer repräsentativen Stichprobe von 786 Schüler\*innen.  
+
+
+Sie vermutet dabei folgendes: Je niedriger die Variable
+`r variables %>% pull(topic_manually_set) %>% .[1]` ausgeprägt ist, desto größer ist der Effekt der Variable
+`r variables %>% pull(topic_manually_set) %>% .[2]` auf die Variable
+`r variables %>% pull(topic_manually_set) %>% .[3]`.
+
+Sie vermutet dabei, dass der Effekt der Variable
+`r variables %>% pull(topic_manually_set) %>% .[2]` auf die Variable
+`r variables %>% pull(topic_manually_set) %>% .[3]` von der Ausprägung der Variable
+`r variables %>% pull(topic_manually_set) %>% .[1]` beinflusst wird.
+
+Sie vermutet dabei, dass der Effekt der Variable
+`r variables %>% pull(topic_manually_set) %>% .[2]` auf die Variable
+`r variables %>% pull(topic_manually_set) %>% .[3]` umso größer ist, je größer
+`r variables %>% pull(topic_manually_set) %>% .[1]` ausgeprägt ist.
+
+
+```{r}
+library(ggdag)
+library(tidyverse)
+
+coords <- tribble(
+  ~name,    ~x,  ~y,
+  "x",      1,   1,
+  "y",      2,   1,
+  "m",      1.5, 0,
+  "holder", 1.5, 1.05
+)
+
+dagify(
+  y ~ x,
+  holder ~ m,
+  coords = coords
+) %>% 
+  ggplot(aes(x = x, y = y, xend = xend, yend = yend)) + 
+    geom_dag_point(data = function(x) filter(x, name != "holder")) +
+    geom_dag_edges() + theme_dag() +
+    geom_dag_label_repel(data = function(x) filter(x, name != "holder"),
+                         aes(label = c("SE",
+                                      "Schulische\nLeistungsentwicklung2",
+                                       "Schulische\nLeistungsentwicklung3")),
+                         nudge_x = 50)
+    #
+```
+
+
+
+
+
+Welche der folgenden Zuordnungen entspricht dem vermuteten Kausalzusammenhang?
+
+Answerlist
+----------
+* Abhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[3]`; Unabhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[2]`; Moderatorvariable = `r variables %>% pull(topic_manually_set) %>% .[1]`.
+* Abhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[3]`; Unabhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[1]`; Moderatorvariable = `r variables %>% pull(topic_manually_set) %>% .[2]`.
+* Abhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[2]`; Unabhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[1]`; Moderatorvariable = `r variables %>% pull(topic_manually_set) %>% .[3]`.
+* Abhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[2]`; Unabhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[3]`; Moderatorvariable = `r variables %>% pull(topic_manually_set) %>% .[1]`.
+* Abhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[1]`; Unabhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[2]`; Moderatorvariable = `r variables %>% pull(topic_manually_set) %>% .[3]`.
+* Abhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[1]`; Unabhängige Variable = `r variables %>% pull(topic_manually_set) %>% .[3]`; Moderatorvariable = `r variables %>% pull(topic_manually_set) %>% .[2]`.
+
+
+Solution
+========
+* Die Formulierung _auf die Variable `r variables %>% pull(topic_manually_set) %>% .[3]`_ impliziert, dass es sich hierbei um die Abhängige Variable handelt. _`r variables %>% pull(topic_manually_set) %>% .[3]`_ ist die »beeinflusste Variable«
+* Die Formulierung _der Effekt der Variable `r variables %>% pull(topic_manually_set) %>% .[2]` auf_ impliziert, dass es sich hierbei um die Unabhängige Variable handelt. _`r variables %>% pull(topic_manually_set) %>% .[2]`_ ist die »eine Variable beeinflussende Variable«
+* Formulierungen wie _desto größer ist der Effekt_ oder _der Effekt der Variable ist umso größer_ implizieren, dass es sich hierbei um die Moderatorvariable handelt. _`r variables %>% pull(topic_manually_set) %>% .[1]`_ ist also die »einen Einfluss beeinflussende Variable«
+
+
+Meta-information
+================
+exname: AV_UV_MoV_identifizieren
+extype: mchoice
+exsolution: 100000
+

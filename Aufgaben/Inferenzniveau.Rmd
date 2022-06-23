@@ -1,0 +1,34 @@
+Question
+========
+Bei Unterrichtsbesuchen zum Thema "Unterrichtsqualität" wurden folgende Variablen beobachtet: die Sozialform, das Unterrichtsklima, die Anzahl der Wortmeldungen der einzelnen Schüler\*innen, die Aufmerksamkeit der Schüler\*innen sowie die Klassenführung. 
+
+__Markieren Sie alle Variablen, die Sie als niedriginferent einschätzen__
+
+
+Answerlist
+----------
+* Sozialform
+* Unterrichtsklima
+* Anzahl an Wortmeldungen
+* Aufmerksamkeit der Schüler\*innen
+* Klassenführung
+
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* True
+* False
+* False
+
+
+Meta-information
+================
+exname: Inferenzniveau
+extype: mchoice
+exsolution: 10100
+exshuffle: TRUE

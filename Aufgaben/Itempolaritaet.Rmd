@@ -1,0 +1,36 @@
+Question
+========
+Geben sind die folgenden Itemstämme mit zugehörigen Polen der Antwortskala:
+
+A: Stamm: "Im Augenblick fühle ich mich"; Anwortskala: "gespannt .... gelöst"  
+
+B: Stamm: "Wie gespannt fühlen Sie sich?"; Anwortskala: "gar nicht .... sehr"
+
+__Welche der folgenden Aussagen ist richtig?__
+
+
+Answerlist
+----------
+* Bei A handelt es sich um ein bipolares Item; bei B um ein unipolares Item.
+* Bei A handelt es sich um ein unipolares Item; bei B um ein bipolares Item.
+* Bei A handelt es sich um ein bipolares Item; bei B um ein bipolares Item.
+* Bei A handelt es sich um ein unipolares Item; bei B um ein unipolares Item.
+
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+
+Meta-information
+================
+exname: Itempolaritaet
+extype: mchoice
+exsolution: 1000
+exshuffle: TRUE

@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 01</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q01 : Aufgaben_Art der Validität </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><em>Aus: Moosbrugger, H., &amp; Kelava, A. (Eds.). (2012). Testtheorie und Fragebogenkonstruktion (2nd ed.). Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-642-20072-4</em></p>
+<p><strong>Anhand von Eysencks Persönlichkeitstheorie soll eine mehrschrittige […] illustriert werden. In dieser Theorie wird angenommen, dass (1) extravertierte Personen ein habituell niedrigeres kortikales Erregungsniveau haben als Introvertierte. Darüber hinaus sollen (2) alle Menschen ein mittleres Erregungsniveau als angenehm empfinden. Es wird erwartet, dass (3) extravertierte Personen stimulierende Situationen als angenehmer erleben, da diese ihre habituell niedrige Erregung kompensieren und ihnen helfen, ein mittleres Erregungsniveau zu erreichen. Aus dieser Argumentation lässt sich ableiten, dass (4) die Frage »Haben Sie gern Geschäftigkeit und Trubel um sich herum?« von extravertierten Personen eher zustimmend beantwortet werden sollte als von Introvertierten. Für diese Aussage kann also theoriebasiert argumentiert werden, dass sie ein [XXX] Item für das Konstrukt Extraversion darstellt. Die erklärende Interpretation der Antworten auf dieses Item besteht in der Annahme, dass Personen die Aussage bejahen, weil sie eine höhere Ausprägung im Konstrukt Extraversion, das heißt unter anderem ein niedrigeres kortikales Erregungsniveau haben.</strong></p>
+<p>Welche Aussagen könnten sinnvoller weise an den entnommenen Stellen stehen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True </li>
+<li> False </li>
+<li> False </li>
+<li> False </li>
+<li> False </li>
+<li> True </li>
+<li> False </li>
+<li> False </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+[…] = Argumentation zur Begründung eines Iteminhaltes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+[…] = Vorgehensweise zur Konstruktvalidierung
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+[XXX] = reliables
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+[…] = Strategie zur Sicherstellung von Reliabilität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+[…] = Objektivierungsstrategie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+[XXX] = inhaltsvalides
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+[XXX] = intern valides
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+[XXX] = extern valides
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 02</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q02 : Aufgaben_Beziehung Gütekriterien </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Markieren Sie im Folgenden korrekte Aussagen:</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Ohne Konstruktvalidität keine Reliabilität.
+</p>]]></text>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Tests die nicht objektiv sind, können auch nicht reliabel sein.
+</p>]]></text>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Ist ein Test konstruktvalide ist er auch objektiv
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Ist ein Test reliabel ist er auch konstruktvalide
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 03</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q03 : Aufgaben_Einzelitems vs. Skalen </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Markieren Sie im Folgenden korrekte Aussagen.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False </li>
+<li> False </li>
+<li> False </li>
+<li> True </li>
+<li> True </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Skalen erlauben keine Prüfung der Split-Half-Reliabilität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Einzelitems sind insbesondere dazu geeignet sog. “latente Merkmale” zu erfassen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Einzelitems erlauben keine Prüfung der Retest-Reliabilität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Einzelitems erfüllen das Nebenkriterium der Testökonomie stärker als Skalen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Skalen erlauben die Prüfung der Reliabilität im Sinne der internen Konsistenz
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 04</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q04 : Aufgaben_Inferenzniveau </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Bei Unterrichtsbesuchen zum Thema “Unterrichtsqualität” wurden folgende Variablen beobachtet: die Sozialform, das Unterrichtsklima, die Anzahl der Wortmeldungen der einzelnen Schüler*innen, die Aufmerksamkeit der Schüler*innen sowie die Klassenführung.</p>
+<p><strong>Markieren Sie alle Variablen, die Sie als niedriginferent einschätzen</strong></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False </li>
+<li> False </li>
+<li> True </li>
+<li> False </li>
+<li> True </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Aufmerksamkeit der Schüler*innen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Klassenführung
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Anzahl an Wortmeldungen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Unterrichtsklima
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Sozialform
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 05</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q05 : Aufgaben_Itempolaritaet </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Geben sind die folgenden Itemstämme mit zugehörigen Polen der Antwortskala:</p>
+<p>A: Stamm: “Im Augenblick fühle ich mich”; Anwortskala: “gespannt …. gelöst”</p>
+<p>B: Stamm: “Wie gespannt fühlen Sie sich?”; Anwortskala: “gar nicht …. sehr”</p>
+<p><strong>Welche der folgenden Aussagen ist richtig?</strong></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False </li>
+<li> False </li>
+<li> True </li>
+<li> False </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Bei A handelt es sich um ein unipolares Item; bei B um ein unipolares Item.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Bei A handelt es sich um ein bipolares Item; bei B um ein bipolares Item.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Bei A handelt es sich um ein bipolares Item; bei B um ein unipolares Item.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Bei A handelt es sich um ein unipolares Item; bei B um ein bipolares Item.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 06</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q06 : Aufgaben_Objektivität </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><em>Aus “Spiegel-Online” (http://www.spiegel.de/politik/deutschland/fluechtlinge-wie-eine-interviewerin-befragungen-faelschte-a-1191086.html; abgerufen am 05.02.2018)</em></p>
+<p><em>Aus “Spiegel-Online” (http://www.spiegel.de/politik/deutschland/fluechtlinge-wie-eine-interviewerin-befragungen-faelschte-a-1191086.html; abgerufen am 05.02.2018)</em></p>
+<p><strong>Sozio-ökonomisches Panel</strong> <strong>Wie eine Interviewerin Befragungen von Flüchtlingen fälschte</strong></p>
+<p>Das sozio-ökonomische Panel gilt als eine der renommiertesten Umfragen Deutschlands. Doch eine Interviewerin manipulierte reihenweise Antworten von Flüchtlingen. Wie kam es dazu - und was hatte es für Folgen?</p>
+<p>[…]</p>
+<p>** Worum ging es bei der SOEP-Befragung?**</p>
+<p>Es handelte sich nicht um die normale SOEP-Befragung, die seit rund 30 Jahren in Deutschland durchgeführt wird. Stattdessen wollte das SOEP in einer gesonderten Erhebung repräsentative Zahlen über Flüchtlinge in Deutschland bekommen. Zusammen mit dem Institut für Arbeitsmarkt- und Berufsforschung und dem Bundesamt für Migration und Flüchtlinge. Dafür wurde im Jahr 2016 das Institut Kantar Public beauftragt, mehrere Tausend zufällig ausgewählte Flüchtlinge zu befragen.</p>
+<p><strong>Wie wurde betrogen?</strong></p>
+<p>Eigentlich sollten die Interviewer die Flüchtlinge in ihren Wohnungen befragen und die Antworten am Laptop protokollieren. Doch eine Interviewerin hat die Flüchtlinge offenbar entweder gar nicht befragt - oder die Antworten zunächst handschriftlich notiert und erst später am Laptop eingegeben, wie Kantar Public dem SPIEGEL auf Anfrage mitteilte. Sechs Prozent der Interviews wurden manipuliert. Bei rund 4400 Befragungen sind das mehr als 200.</p>
+<p><em>Markieren Sie korrekte Aussagen</em></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True </li>
+<li> False </li>
+<li> True </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Das Fehlverhalten der Interviewerin ist ein Beispiel für mangelnde Durchführungsobjektivität des SOEP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Hätte man nonreaktive Methoden verwendet, hätte man das vorliegende Problem vermeiden können
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Durch das Fehlverhalten der Interviewerin leidet die Reliabilität der gewonnen Daten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 07</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q07 : Aufgaben_Reaktive vs. nonreaktive Verfahren </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Markieren Sie im Folgenden korrekte Aussagen.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True </li>
+<li> True </li>
+<li> False </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Nonreaktive Verfahren erhöhen i.d.R. die Objektivität.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Die Wahl zwischen reaktiven und non-reaktiven Verfahren stellt auch ein axiologisches Problem dar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Offene Fragen eines Fragebogens stellen ein nonreaktives Erhebungsverfahren dar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 08</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q08 : Aufgaben_Reliabilität </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Markieren Sie im Folgenden korrekte Aussagen:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True </li>
+<li> True </li>
+<li> True </li>
+<li> True </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Eine hohe Ratewahrscheinlichkeit senkt die Retest-Reliabilität nicht.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Mit der internen Konsistenz kann auch die Reliabilität von Selbstauskunftskalen beschrieben werden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Hätte man nonreaktive Methoden verwendet, hätte man das vorliegende Problem vermeiden können
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Lernt ein Proband während eines Tests ist die Paralleltest-Reliabilität eine besonders geeignete Methode.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 09</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q09 : Aufgaben_Validität </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Markieren Sie im Folgenden korrekte Aussagen:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True </li>
+<li> False </li>
+<li> False </li>
+<li> False </li>
+<li> True </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Tests die nicht objektiv sind, können auch nicht valide sein.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Die interne Validität bezieht sich auf Messwerte latenter (nicht direkt beobachtbarer) Konstrukte.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Die Externe Validität bezieht sich auf Messwerte manifester (direkt beobachtbarer) Konstrukte.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Ohne Validität keine Reliabilität.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Die “konvergente Validität” ist ein Spezialfall der Konstruktvalidität.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Messung/Exercise 10</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q10 : Aufgaben_Variablenbezeichnung </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Eine Bildungsforscherin interessiert sich für das Zusammenspiel zwischen kognitiven Fähigkeiten und Gewissenhaftigkeit, auf die schulische Leistungsentwicklung und erhebt die entsprechenden Daten bei 250 Schüler*innen.</p>
+<p>Sie vermutet dabei folgendes: Je niedriger die kognitiven Fähigkeiten der Schüler*innen sind, desto höher ist der Zusammenhang zwischen Gewissenhaftigkeit und schulischer Leistung, da kognitive Defizite durch gewissenhafte Aufgabenbearbeitung teilweise ausgeglichen werden können.</p>
+<p>Welche der folgenden Zuordnungen ist korrekt, um die Hypothese zu überprüfen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False </li>
+<li> True </li>
+<li> False </li>
+<li> False </li>
+<li> False </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+schulische Leistung = abhängige Variable, Gewissenhaftigkeit = unabhängige Variable, kognitive Fähigkeit = unabhängige Variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+schulische Leistung = abhängige Variable, Gewissenhaftigkeit = unabhängige Variable, kognitive Fähigkeit = Moderatorvariable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gewissenhaftigkeit = abhängige Variable, kognitive Fähigkeit = unabhängige Variable, schulische Leistung = Moderatorvariable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+kognitive Fähigkeit = abhängige Variable, Gewissenhaftigkeit = unabhängige Variable, schulische Leistung = unabhängige Variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+schulische Leistung = abhängige Variable, Gewissenhaftigkeit = Moderatorvariable, kognitive Fähigkeit = unabhängige Variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

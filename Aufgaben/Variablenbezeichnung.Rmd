@@ -1,0 +1,34 @@
+Question
+========
+Eine Bildungsforscherin interessiert sich für das Zusammenspiel zwischen kognitiven Fähigkeiten und Gewissenhaftigkeit, auf die schulische Leistungsentwicklung und erhebt die entsprechenden Daten bei 250 Schüler\*innen.
+
+Sie vermutet dabei folgendes: Je niedriger die kognitiven Fähigkeiten der Schüler\*innen sind, desto höher ist der Zusammenhang zwischen Gewissenhaftigkeit und schulischer Leistung, da kognitive Defizite durch gewissenhafte Aufgabenbearbeitung teilweise ausgeglichen werden können. 
+
+Welche der folgenden Zuordnungen ist korrekt, um die Hypothese zu überprüfen?
+
+Answerlist
+----------
+
+* schulische Leistung = abhängige Variable, Gewissenhaftigkeit = unabhängige Variable, kognitive Fähigkeit = Moderatorvariable
+* schulische Leistung = abhängige Variable, Gewissenhaftigkeit = Moderatorvariable, kognitive Fähigkeit = unabhängige Variable
+* kognitive Fähigkeit = abhängige Variable, Gewissenhaftigkeit = unabhängige Variable, schulische Leistung = unabhängige Variable
+* schulische Leistung = abhängige Variable, Gewissenhaftigkeit = unabhängige Variable, kognitive Fähigkeit = unabhängige Variable
+* Gewissenhaftigkeit = abhängige Variable, kognitive Fähigkeit = unabhängige Variable, schulische Leistung = Moderatorvariable
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False 
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Arten von Variablen
+extype: schoice
+exsolution: 10000
+exshuffle: TRUE

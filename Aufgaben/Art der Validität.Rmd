@@ -1,0 +1,41 @@
+Question
+========
+_Aus: Moosbrugger, H., & Kelava, A. (Eds.). (2012). Testtheorie und Fragebogenkonstruktion (2nd ed.). Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-642-20072-4_
+
+**Anhand von Eysencks Persönlichkeitstheorie soll eine mehrschrittige [...] illustriert werden. In dieser Theorie wird angenommen, dass (1) extravertierte Personen ein habituell niedrigeres kortikales Erregungsniveau haben als Introvertierte. Darüber hinaus sollen (2) alle Menschen ein mittleres Erregungsniveau als angenehm empfinden. Es wird erwartet, dass (3) extravertierte Personen stimulierende Situationen als angenehmer erleben, da diese ihre habituell niedrige Erregung kompensieren und ihnen helfen, ein mittleres Erregungsniveau zu erreichen. Aus dieser Argumentation lässt sich ableiten, dass (4) die Frage »Haben Sie gern Geschäftigkeit und Trubel um sich herum?« von extravertierten Personen eher zustimmend beantwortet werden sollte als von Introvertierten. Für diese Aussage kann also theoriebasiert argumentiert werden, dass sie ein [XXX] Item für das Konstrukt Extraversion darstellt. Die erklärende Interpretation der Antworten auf dieses Item besteht in der Annahme, dass Personen die Aussage bejahen, weil sie eine höhere Ausprägung im Konstrukt Extraversion, das heißt unter anderem ein niedrigeres kortikales Erregungsniveau haben.**
+
+Welche Aussagen könnten sinnvoller weise an den entnommenen Stellen stehen?
+
+Answerlist
+----------
+* [...] = Argumentation zur Begründung eines Iteminhaltes
+* [...] = Vorgehensweise zur Konstruktvalidierung
+* [...] = Objektivierungsstrategie
+* [...] = Strategie zur Sicherstellung von Reliabilität
+* [XXX] = inhaltsvalides
+* [XXX] = reliables
+* [XXX] = extern valides 
+* [XXX] = intern valides 
+
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+* True
+* False
+* False
+* False
+
+
+Meta-information
+================
+exname: Art der Validität
+extype: mchoice
+exsolution: 10001000
+exshuffle: TRUE

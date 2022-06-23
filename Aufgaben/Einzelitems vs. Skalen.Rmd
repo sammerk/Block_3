@@ -1,0 +1,32 @@
+Question
+========
+Markieren Sie im Folgenden korrekte Aussagen.
+
+
+Answerlist
+----------
+* Einzelitems erfüllen das Nebenkriterium der Testökonomie stärker als Skalen.
+* Einzelitems erlauben keine Prüfung der Retest-Reliabilität
+* Skalen erlauben keine Prüfung der Split-Half-Reliabilität
+* Skalen erlauben die Prüfung der Reliabilität im Sinne der internen Konsistenz
+* Einzelitems sind insbesondere dazu geeignet sog. "latente Merkmale" zu erfassen
+
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* True
+* False
+
+
+Meta-information
+================
+exname: Einzelitems vs. Skalen
+extype: mchoice
+exsolution: 10010
+exshuffle: TRUE

@@ -1,0 +1,46 @@
+Question
+========
+_Aus "Spiegel-Online" (http://www.spiegel.de/politik/deutschland/fluechtlinge-wie-eine-interviewerin-befragungen-faelschte-a-1191086.html; abgerufen am 05.02.2018)_
+
+_Aus "Spiegel-Online" (http://www.spiegel.de/politik/deutschland/fluechtlinge-wie-eine-interviewerin-befragungen-faelschte-a-1191086.html; abgerufen am 05.02.2018)_
+
+**Sozio-ökonomisches Panel** 
+**Wie eine Interviewerin Befragungen von Flüchtlingen fälschte**
+
+Das sozio-ökonomische Panel gilt als eine der renommiertesten Umfragen Deutschlands. Doch eine Interviewerin manipulierte reihenweise Antworten von Flüchtlingen. Wie kam es dazu - und was hatte es für Folgen?
+
+[...]
+
+** Worum ging es bei der SOEP-Befragung?**
+
+Es handelte sich nicht um die normale SOEP-Befragung, die seit rund 30 Jahren in Deutschland durchgeführt wird. Stattdessen wollte das SOEP in einer gesonderten Erhebung repräsentative Zahlen über Flüchtlinge in Deutschland bekommen. Zusammen mit dem Institut für Arbeitsmarkt- und Berufsforschung und dem Bundesamt für Migration und Flüchtlinge. Dafür wurde im Jahr 2016 das Institut Kantar Public beauftragt, mehrere Tausend zufällig ausgewählte Flüchtlinge zu befragen.
+
+**Wie wurde betrogen?**
+
+Eigentlich sollten die Interviewer die Flüchtlinge in ihren Wohnungen befragen und die Antworten am Laptop protokollieren. Doch eine Interviewerin hat die Flüchtlinge offenbar entweder gar nicht befragt - oder die Antworten zunächst handschriftlich notiert und erst später am Laptop eingegeben, wie Kantar Public dem SPIEGEL auf Anfrage mitteilte. Sechs Prozent der Interviews wurden manipuliert. Bei rund 4400 Befragungen sind das mehr als 200. 
+
+_Markieren Sie korrekte Aussagen_
+
+Answerlist
+----------
+* Durch das Fehlverhalten der Interviewerin leidet die Reliabilität der gewonnen Daten.
+* Das Fehlverhalten der Interviewerin ist ein Beispiel für mangelnde Durchführungsobjektivität des SOEP
+* Hätte man nonreaktive Methoden verwendet, hätte man das vorliegende Problem vermeiden können
+
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* True
+* False
+
+
+Meta-information
+================
+exname: Objektivität
+extype: mchoice
+exsolution: 110
+exshuffle: TRUE

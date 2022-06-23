@@ -1,0 +1,20 @@
+Question
+========
+Markieren Sie im Folgenden korrekte Aussagen:
+
+Answerlist
+----------
+* Ohne Konstruktvalidität keine Reliabilität.
+* Tests die nicht objektiv sind, können auch nicht reliabel sein.
+* Ist ein Test konstruktvalide ist er auch objektiv
+* Ist ein Test reliabel ist er auch konstruktvalide
+
+
+
+
+Meta-information
+================
+exname: Validität
+extype: mchoice
+exsolution: 0110
+exshuffle: TRUE

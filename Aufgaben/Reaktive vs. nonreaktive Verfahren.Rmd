@@ -1,0 +1,28 @@
+Question
+========
+Markieren Sie im Folgenden korrekte Aussagen.
+
+
+Answerlist
+----------
+* Offene Fragen eines Fragebogens stellen ein nonreaktives Erhebungsverfahren dar.
+* Nonreaktive Verfahren erhöhen i.d.R. die Objektivität.
+* Die Wahl zwischen reaktiven und non-reaktiven Verfahren stellt auch ein axiologisches Problem dar.
+
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* True
+* True
+
+
+Meta-information
+================
+exname: Reaktive vs. Nonreaktive Verfahren
+extype: mchoice
+exsolution: 011
+exshuffle: TRUE

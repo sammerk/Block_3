@@ -1,0 +1,31 @@
+Question
+========
+Markieren Sie im Folgenden korrekte Aussagen:
+
+Answerlist
+----------
+* Ohne Validität keine Reliabilität.
+* Tests die nicht objektiv sind, können auch nicht valide sein.
+* Die interne Validität bezieht sich auf Messwerte latenter (nicht direkt beobachtbarer) Konstrukte.
+* Die Externe Validität bezieht sich auf Messwerte manifester (direkt beobachtbarer) Konstrukte.
+* Die "konvergente Validität" ist ein Spezialfall der Konstruktvalidität.
+
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+* True
+
+
+Meta-information
+================
+exname: Validität
+extype: mchoice
+exsolution: 01001
+exshuffle: TRUE
