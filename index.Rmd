@@ -249,7 +249,7 @@ reactable(
 
 <br><br><br>
 
-.phg[AA: Überlegen Sie sich je eine Operationalisierung für jedes Skalenniveau die per Fragebogen »Cannabis-Konsum« erfasst]
+.phg[AA: Überlegen Sie sich je eine Operationalisierung für jedes Skalenniveau die per Fragebogen »Pflegebedürftikeit« erfasst]
 
 
 ```{r, echo = F}
@@ -277,7 +277,7 @@ countdown(minutes = 3, seconds = 00, color_running_text = "#8cd000")
 
 --
 
-<br>
+<br><br><br><br><br><br><br><br>
 
 .phg[AA: Überlegen Sie sich je eine hoch- bzw. niedriginferente Variable für das Themengebiet »Engagement für Fridays for Future«]
 
